@@ -83,7 +83,7 @@ form {
     padding: 0 30px;
     border: none;
     border-radius: 1000px;
-    font: Poppins;
+    font: Helvetica, sans-serif;
     font-weight: 600;
     color: var(--background);
     cursor: pointer;
